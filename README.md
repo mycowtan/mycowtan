@@ -1,4 +1,4 @@
-- 📫 How to reach me ...it_helpdesk@cowtan.com
+- 📫 How to reach me ...jclogic@gmail.com
 
 This is the repository for all the web applications in mycowtan.com, including repvisit.
 
